@@ -1,3 +1,7 @@
+# credits
+[Brad Traversy](https://www.youtube.com/watch?v=3dHNOWTI7H8)
+[Git hub](https://github.com/bradtraversy/angular-crash-2021)
+
 # AngularCrash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
